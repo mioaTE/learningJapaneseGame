@@ -1,0 +1,4 @@
+Kn1a | Which one says "House"? | 1) 本　2) 教室　3) 学校　4) 家 | 4
+Kn1b | Which one says "School"? | 1) 本　2) 教室　3) 学校　4) 家 | 3
+Kn1c | Which one says "Class room"? | 1) 本　2) 教室　3) 学校　4) 家 | 2
+Kn1d | Which one says "Book"? | 1) 本　2) 教室　3) 学校　4) 家 | 1

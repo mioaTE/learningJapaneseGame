@@ -1,0 +1,4 @@
+H1a | Which one says "Good morning"? | 1) こんにちは　2) こんばんは　3) おはよう　4) さようなら | 3
+H1b | Which one says "Good afternoon" | 1) こんにちは　2) こんばんは　3) おはよう　4) さようなら | 1
+H1c | Which one says "Good evening" | 1) こんにちは　2) こんばんは　3) おはよう　4) さようなら | 2
+H1d | Which one says "Good bye" | 1) こんにちは　2) こんばんは　3) おはよう　4) さようなら | 4
